@@ -4,11 +4,14 @@
 
 const char* nextLineHeader = "> ";
 
-// interfaces
+// function prototypes
 void printHelpMessage();
 
 
 
+
+
+// initial
 void initialSystem() {
   // step 1: print help message
   printHelpMessage();
